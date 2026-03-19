@@ -281,7 +281,7 @@ int main(int argc, char **argv)
 }
 ```
 ## OUTPUT:
-<img width="1441" height="135" alt="image" src="https://github.com/user-attachments/assets/46a6ee61-3d3d-46e9-a441-451fe6a2cffe" />
+<img width="554" height="133" alt="image" src="https://github.com/user-attachments/assets/bd2ec0ee-3ee9-4c25-9334-51d2bd314a00" />
 
 ## RESULT:
 Thus, to perform Matrix addition with unified memory and check its performance with nvprof was executed successfully.
